@@ -6,36 +6,15 @@
 
   <br>
 
-  <h2>Tools used:</h2>
+  <h2>:wrench: Programming Languages & Tools used:</h2>
   <div id="tools">
-    <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg alt="Python Logo" height="40" width="40" />
-    <img src=https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg alt="Pycharm Logo" height="40" width="40" />
-    <img src= alt="Test Logo" height="40" width="40" />
-  </div>
-
-  <br>
-  
-  <h2>Branches:</h2>
-  <div id="branches">
-  <ul>
-  <li>main:</li>
-
-  ```
-  Contains the python file that I coded to perform the ETL pipeline.
-  ```
-
-  <li>env:</li>
-
-  ```
-  Contains the libraries and documents for the venv that I created for this project.
-  ```
-
-  </ul>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="40" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="Pycharm Logo" height="40" width="40" />
   </div>
 
   <br>
 
-  <h2>Project Scenario:</h2>
+  <h2>:open_file_folder: Project Scenario:</h2>
   <p>
     An international firm that is looking to expand its business in different countries across the world has recruited me. I have been hired as a junior Data Engineer and I’m
     tasked with creating an automated script that can extract the list of all countries in order of their GDPs in billion USDs (rounded to 2 decimal places), as logged by the
@@ -55,29 +34,48 @@
 
   <br>
   
-  <h2>Objective:</h2>
+  <h2>:round_pushpin: Objective:</h2>
   <p>
-    Design marketing strategies to convert casual riders into annual members.
+    Create an extraction, transformation and loading process of data from a wikipedia page that will load the desired information in a CSV file, and also in a database (if needed).
   </p>
 
   <br>
 
-  <h2>My Mission:</h2>
-  <p>
-  As a junior data analyst for Cyclistic, my mission is to delve into the Cyclistic historical bike trip data, uncover trends, and understand the story from our clients. Through this, I aim to develop a strategy that effectively converts casual users into loyal annual members, contributing to Cyclistic's continued success.
-
-  Feel free to explore the R branch for data processing, the Tableau branch for visualizations, and the Presentation branch for a detailed overview of the project solution.
-  </p>
-
-  <br>
-
-  <hr>
-
-  <br>
-
-  <h2>Reference:</h2>
+  <h2>:mag: My Mission:</h2>
   <ul>
-    <li><strong>Coursera Case Study:</strong> Document is present on the main branch.</li>
-    <li><strong>Dataset:</strong> <a href="https://divvy-tripdata.s3.amazonaws.com/index.html" target="_blank">Click Here</a></li>
-    <li><strong>Tableau Public:</strong> <a href="https://public.tableau.com/views/cyclistic_data0123-0623/Sheet1?:language=fr-FR&:display_count=n&:origin=viz_share_link" target="_blank">Click Here</a></li>
+    <li>Write a data extraction function to retrieve the relevant information from the required URL.</li>
+    <li>Transform the available GDP information into 'Billion USD' from 'Million USD'.</li>
+    <li>Load the transformed information to the required CSV file and as a database file.</li>
+    <ul>
+      <li>Database connection was commented, the only automation used was CSV file.</li>
+    </ul>
+    <li>Run the required query on the database.</li>
+    <li>Log the progress of the code with appropriate timestamps.</li>
+  </ul>
+
+  <br>
+
+  <h2>:memo: Branches:</h2>
+  <ul>
+  <li>main:</li>
+
+  ```
+  Contains the folder where is the main code to run etl_process and also where you can find the output from it.
+  ```
+
+  <li>env:</li>
+
+  ```
+  Contains the libraries and documents for the venv that I created for this project.
+  ```
+
+  </ul>
+
+  <br>
+
+  <h2>:globe_with_meridians: Reference:</h2>
+  <ul>
+    <li><strong>Coursera reference:</strong> <a href="https://www.coursera.org/learn/python-project-for-data-engineering/ungradedLti/Rg7gf/practice-project-extract-transform-and-load-gdp-data" target="_blank">Click Here</a></li>
+    <li><strong>Wikipedia page:</strong> <a href="https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29" target="_blank">Click Here</a></li>
+  </ul>
 
