@@ -1,6 +1,6 @@
 <div>
   <h1><strong>Expansion Analysis - Data Engineering (ETL)</strong></h1>
-  <p>This Expansion Analysis is a Data engineering project using skills to complete an ETL (Extract, Transform and Load) pipeline for accessing data from a website and processing to meet requirements.
+  <p>This Expansion Analysis is a Data engineering project using skills to complete an ETL (Extract, Transform and Load) pipeline for accessing data from a website and processing to meet requirements. To execute my code, you will need to install a few python packages, such as: <strong>requests, bs4, pandas, sqlite3, numpy & datetime</strong>.
   </p>
   <h4>Author: <a href=https://www.linkedin.com/in/gabrielgelbcke/ target="_blank">©GabrielGelbcke</a></h4>
 
@@ -61,12 +61,6 @@
 
   ```
   Contains the folder where is the main code to run etl_process and also where you can find the output from it.
-  ```
-
-  <li>env:</li>
-
-  ```
-  Contains the libraries and documents for the venv that I created for this project.
   ```
 
   </ul>
