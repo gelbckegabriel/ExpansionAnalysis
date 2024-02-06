@@ -9,7 +9,7 @@
   <h2>:wrench: Programming Languages & Tools used:</h2>
   <div id="tools">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" height="40" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="Pycharm Logo" height="40" width="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm Logo" height="40" width="40" />
   </div>
 
   <br>
